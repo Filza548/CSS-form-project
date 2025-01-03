@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-color: rgb(6, 62, 94);
+}
+
+.first-heading {
+    color: white;
+    padding: 10px;
+    margin-left: -8%;
+    line-height: 40px;
+}
+
+.box {
+    width: 30%;
+    height: 50px;
+    background-color: rgba(76, 133, 164, 0.824);
+    border: 1px solid white;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+
+}
+
+.custom-label {
+    color: white;
+    margin-left: 3.9%;
+    font-family: serif;
+    font-size: 150%;
+    gap: 25px;
+    display: flex;
+
+
+
+}
+
+.input-box {
+    width: 200px;
+    height: 26px;
+    padding: 2px;
+    border-radius: 6px;
+    font-size: medium;
+    font-style: oblique;
+}
+
+.second-heading {
+    color: white;
+    margin-left: -3%;
+    line-height: 90px;
+}
+
+.box-1 {
+    width: 30%;
+    height: 25vh;
+    background-color: rgba(76, 133, 164, 0.824);
+    border: 1px solid white;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+
+}
+
+.custom-textarea {
+    width: 190px;
+    height: 20vh;
+}
+
+.custom-label1 {
+    font-family: serif;
+    font-size: 150%;
+    color: white;
+    margin-left: 3.9%;
+    align-items: center;
+    gap: 25px;
+    display: flex;
+}
+
+.custom-label2 {
+    color: white;
+    margin-left: 3.9%;
+    font-size: 150%;
+    font-family: serif;
+    gap: 12px;
+    display: flex;
+
+}
+
+.custom-label3 {
+
+    color: white;
+    margin-left: 3.9%;
+    font-size: 150%;
+    font-family: serif;
+    gap: 26px;
+    display: flex;
+}
+
+.third-heading {
+    color: white;
+    margin-left: -7.3%;
+    line-height: 90px;
+}
+
+.box2 {
+    width: 30%;
+    height: 19vh;
+    border: 1px solid white;
+    background-color: rgba(76, 133, 164, 0.824);
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.custom-label4 {
+    color: white;
+    margin-left: -62%;
+    font-size: 150%;
+    line-height: 50px;
+    font-weight: 400;
+}
+
+.custom-label5 {
+    color: white;
+    line-height: 30px;
+
+}
+
+img {
+    width: 20px;
+    height: 12px;
+}
+
+.custom-label6 {
+    color: white;
+    margin-left: 3.9%;
+    font-family: serif;
+    font-size: 130%;
+    gap: 20px;
+    display: flex;
+    font-weight: 500;
+    align-items: center;
+}
+
+.custom-label7 {
+    color: white;
+    font-weight: 400;
+    font-size: 130%;
+    gap: 15px;
+    display: flex;
+    margin-left: 4.5%;
+    align-items: center;
+}
+
+.custom-label8 {
+    color: white;
+    font-weight: 400;
+    font-size: 130%;
+    gap: 21px;
+    display: flex;
+    margin-left: 4.5%;
+    align-items: center;
+}
+
+button {
+    color: white;
+    border: 1px solid rgb(4, 37, 57);
+    background-color: rgb(4, 37, 57);
+    width: 10%;
+    height: 7vh;
+    border-radius: 10px;
+    align-items: center;
+}
+
+button:hover {
+    background-color: rgb(66, 115, 146);
+    color: white;
+    cursor: pointer;
+}
